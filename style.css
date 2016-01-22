@@ -1,12 +1,11 @@
 html { font-size: 15px; }
 
 body { 
-	width: 87.5%;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
 	font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", sans-serif, "Helvetica Neue", "Lucida Grande";
 	color: #111;
-	max-width: 1400px;
 }
 
 h1 { 
@@ -45,7 +44,6 @@ p.subtitle {
 }
 
 article {
-	max-width: 650px;
 	position: relative;
 	padding-left: 2rem;
 	padding-right: 2rem; 
